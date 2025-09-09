@@ -1,5 +1,5 @@
 # Bogdan-daw241
-Învăț la colegiul UTM
-am 17 ani (unc status)
-aura farming
-code geass is peak fr fr 
+Învăț la colegiul UTM <br>
+am 17 ani (unc status)<br>
+aura farming<br>
+code geass is peak fr fr <br>
