@@ -1,22 +1,38 @@
-# Bogdan-daw241
-Învăț la colegiul UTM <br>
-am 17 ani (unc status)<br>
-aura farming<br>
-code geass is peak fr fr <br>
-░░░░░░░░░░░░░░░░░░░░░░█████████░░░░░░░░░ <br>
-░░███████░░░░░░░░░░███▒▒▒▒▒▒▒▒███░░░░░░░<br>
-░░█▒▒▒▒▒▒█░░░░░░░███▒▒▒▒▒▒▒▒▒▒▒▒▒███░░░░<br>
-░░░█▒▒▒▒▒▒█░░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░<br>
-░░░░█▒▒▒▒▒█░░░██▒▒▒▒▒██▒▒▒▒▒▒██▒▒▒▒▒███░<br>
-░░░░░█▒▒▒█░░░█▒▒▒▒▒▒████▒▒▒▒████▒▒▒▒▒▒██<br>
-░░░█████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██<br>
-░░░█▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒██<br>
-░██▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒██▒▒▒▒▒▒▒▒▒▒██▒▒▒▒██<br>
-██▒▒▒███████████▒▒▒▒▒██▒▒▒▒▒▒▒▒██▒▒▒▒▒██<br>
-█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒████████▒▒▒▒▒▒▒██<br>
-██▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░<br>
-░█▒▒▒███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░░<br>
-░██▒▒▒▒▒▒▒▒▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█░░░░░<br>
-░░████████████░░░█████████████████░░░░░░<br>
+# 👋 Salut, eu sunt **Bogdan**
 
-![alt text](https://www.google.com/imgres?q=67&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F15%2F68%2F97%2F83%2F360_F_1568978321_JVKyawq58nNqd9mekQ4EEvm8MraRvVHZ.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522number%2B67%2522&docid=2MGLbOg_yjpwqM&tbnid=cao938sCwmBEFM&vet=12ahUKEwjZiMfZhMuPAxVV9gIHHRggLdEQM3oECBkQAA..i&w=661&h=360&hcb=2&ved=2ahUKEwjZiMfZhMuPAxVV9gIHHRggLdEQM3oECBkQAA)
+🎓 **Student pasionat** de tehnologie. 
+💡 Îmi place să învăț lucruri noi, să explorez concepte complexe și să le transform în ceva util și creativ.  
+🚀 Pe GitHub vei găsi proiecte la început de drum, dar fiecare e o parte din procesul meu de dezvoltare.
+
+---
+
+## 📌 Despre mine
+- 🎂 17 ani, curios și mereu pus pe treabă  
+- 💻 Cunosc puțin **HTML, CSS, JavaScript**  
+- 📚 În proces de a învăța **PHP** și **SQL**  
+- ✈️ Fascinat de **aviația civilă** (avione, industrie, sisteme)  
+
+---
+
+## 🛠️ Skilluri & Tool-uri
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+## 🌍 Ce mă motivează
+> „Totul este posibil dacă ai răbdare și perseverență.”  
+
+Îmi place să privesc lucrurile strategic, să învăț din greșeli și să construiesc încet, dar sigur.  
+Pe GitHub vei găsi proiecte unde experimentez, testez și îmi las ideile să prindă viață.  
+
+---
+
+## 📫 Cum mă găsești
+- 📧 Email: *bogdanborcea732@gmail.com*  
+- 🎮 Discord: *Shroudyw*  
+
+
